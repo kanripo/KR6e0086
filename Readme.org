@@ -1,21 +1,19 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:04.018373
-#+TITLE: 華嚴策林
-#+PROPERTY: CBETA_ID T45n1872
-#+PROPERTY: ID KR6e0086
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1872
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T
+#+TITLE: 華嚴策林 / T
+#+DATE: 2015-11-26 14:16:26.762796
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
 
-<pb:KR6e0086_T_000-0597a>¶
-
-[[file:KR6e0086_001.txt::001-0597a19][一徵普眼¶]]
-[[file:KR6e0086_001.txt::0597b2][二明理事¶]]
-[[file:KR6e0086_001.txt::0597b12][三辨正因¶]]
-[[file:KR6e0086_001.txt::0597b26][四融大小¶]]
-[[file:KR6e0086_001.txt::0597c9][五結成壞¶]]
-[[file:KR6e0086_001.txt::0597c18][六通二界¶]]
-[[file:KR6e0086_001.txt::0597c28][七明隱顯]]
-[[file:KR6e0086_001.txt::0598a12][八明因果¶]]
-[[file:KR6e0086_001.txt::0598a24][九達色空¶]]
+* 目次
+* [[file:KR6e0086_001.txt::001-0597a18][一徵普眼]]
+* [[file:KR6e0086_001.txt::0597b1][二明理事]]
+* [[file:KR6e0086_001.txt::0597b11][三辨正因]]
+* [[file:KR6e0086_001.txt::0597b25][四融大小]]
+* [[file:KR6e0086_001.txt::0597c8][五結成壞]]
+* [[file:KR6e0086_001.txt::0597c17][六通二界]]
+* [[file:KR6e0086_001.txt::0597c29][七明隱顯]]
+* [[file:KR6e0086_001.txt::0598a11][八明因果]]
+* [[file:KR6e0086_001.txt::0598a23][九達色空]]
+* 卷
+** [[file:KR6e0086_001.txt][華嚴策林 1]]
